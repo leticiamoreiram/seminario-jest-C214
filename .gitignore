@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+
+# Arquivos de compilação
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+*.log
+*.swp
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos específicos do sistema de construção 
+.babelrc
+webpack.config.js
+
+
+# Arquivo que termine com .tmp
+*.tmp
+
+# Arquivos de backup
+*.bak
+*.backup
