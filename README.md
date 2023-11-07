@@ -1,6 +1,5 @@
 [![CI Class](https://github.com/leticiamoreiram/seminario-jest-C214/actions/workflows/ci.yml/badge.svg)](https://github.com/leticiamoreiram/seminario-jest-C214/actions/workflows/ci.yml)
 
---
 
 # Seminário Final C214 - JEST
 
